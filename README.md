@@ -1,12 +1,12 @@
-<img align="right" src="![visitors](https://visitor-badge.laobi.icu/badge?page_id=Naveenvk29.Naveenvk29)" />
+<!-- <img align="right" src="![visitors](https://visitor-badge.laobi.icu/badge?page_id=Naveenvk29.Naveenvk29)" /> -->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naveen+Vinod+kumar!;" />
 </h1>
 
 
-
-🔭 I’m currently working on **Home Health Care Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
+<!-- 
+🔭 I’m currently working on **Home Health Care Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" /> -->
 
 🏫 I’m currently learning **MERN by doing Project**
 
@@ -33,6 +33,7 @@
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
 
 ## ♨ Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
