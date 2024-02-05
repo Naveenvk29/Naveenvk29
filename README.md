@@ -23,7 +23,7 @@
 
 📫 How to reach me **naveenvinodkumar29@gmail.com**
 
-📄 Know about  at my **[LinkedIn Profile]()**
+📄 Know about  at my **[LinkedIn Profile](https://www.linkedin.com/in/naveen-vinod-kumar-uppu-335286288/)**
 
 ## 🔰 Let's Connect:
 
@@ -33,7 +33,6 @@
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](gummu1022)
 
 ## ♨ Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,bootstrap,reactjs,nodejs,expressjs,monodbd,git,adobephotoshop)](https://skillicons.dev)
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
@@ -43,17 +42,14 @@
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
-[![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)](https://webpack.js.org)
 [![babeljs](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)](https://babeljs.io/)
 [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
-<!-- [![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/) -->
-<!-- [![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/) -->
+[![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![github pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://pages.github.com/)
 [![visualstudio](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![adobe photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.adobe.com/in/products/photoshop.html)
-[![adobe premiere pro]()]()
+[![adobe premierepro](https://img.shields.io/badge/Adobe%20premierepro-31A8FF?style=for-the-badge&logo=Adobe%20premierepro&logoColor=black)](https://www.adobe.com/in/products/premiere/campaign/pricing.html?gclid=CjwKCAiAq4KuBhA6EiwArMAw1CB9cZ3Y0MqDSz4zTP3KKlksHCPo9jlH15pAp-lIdqXpLKVqI2OZZRoC__sQAvD_BwE&sdid=M3T3SPSL&mv=search&mv2=paidsearch&ef_id=CjwKCAiAq4KuBhA6EiwArMAw1CB9cZ3Y0MqDSz4zTP3KKlksHCPo9jlH15pAp-lIdqXpLKVqI2OZZRoC__sQAvD_BwE:G:s&s_kwcid=AL!3085!3!473191824147!e!!g!!adobe%20premiere%20pro!221167988!17525565668)
 
