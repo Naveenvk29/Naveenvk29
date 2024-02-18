@@ -15,7 +15,7 @@
 💻 All of my projects are available at **[My Portfolio](https://main--naveenvk-portfolio.netlify.app/)**
 
 
-💬 Ask me about **Frontend Development**
+💬 Ask me about **MERN Development**
 
 💗 Love to talk about **Research and Innovation!**
 
