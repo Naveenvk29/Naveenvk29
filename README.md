@@ -12,7 +12,7 @@
 
 🔎 I’m looking to collaborate on **Open source Project**
 
-💻 All of my projects are available at **[My Portfolio](https://main--naveenvk-portfolio.netlify.app/)**
+💻 All of my projects are available at **[My Portfolio](https://main--naveenvk-portfolioko-.netlify.app/)**
 
 
 💬 Ask me about **MERN Development**
